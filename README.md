@@ -1,6 +1,7 @@
 # GoogLeNet
 
 - Explanation -
+
 This is the GoogLeNet folder that contains coding results.
 It is a coding that implements artificial intelligence in Keras version using GoogLeNet Network.
 
